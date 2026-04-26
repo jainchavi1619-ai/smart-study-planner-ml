@@ -5,6 +5,8 @@
 Smart Study Planner & Performance Predictor is an AI/ML-based project developed to predict student academic performance based on study habits, attendance, sleep schedule, stress level, and social media usage.
 The system also provides personalized study recommendations according to the predicted performance category.
 
+---
+
 ## 🎯 Objectives
 
 - Predict student performance using machine learning
